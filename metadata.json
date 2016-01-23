@@ -1,0 +1,20 @@
+{
+  "name": "landregistry-example",
+  "version": "0.1.0",
+  "author": "landregistry",
+  "summary": "Deploy a exmaple puppet module",
+  "license": "MIT",
+  "source": "https://github.com/mooreandrew/puppet-module-example",
+  "project_page": "https://github.com/mooreandrew/puppet-module-example",
+  "issues_url": "https://github.com/mooreandrew/puppet-module-example",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "7"
+      ]
+    }
+  ]
+}
